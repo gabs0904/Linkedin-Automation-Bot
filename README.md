@@ -15,6 +15,6 @@ $ npm npm start
 
 ## Environment variable
 LINKEDIN_USERNAME: your mail address or phone number of your Linkedin 
-account
-LINKEDIN_PASSWORD: your password of your Linkedin account
+account\
+LINKEDIN_PASSWORD: your password of your Linkedin account\
 The client only needs to provide values for these variables.
