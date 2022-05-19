@@ -1,0 +1,27 @@
+{
+  "name": "nodejstask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "constants": "^0.0.2",
+    "express": "^4.18.1",
+    "express-session": "^1.17.2",
+    "linkedin-private-api": "^1.1.2",
+    "passport": "^0.5.2",
+    "passport-linkedin-oauth2": "^2.0.0",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^14.1.0",
+    "query-string": "^7.1.1"
+  },
+  "devDependencies": {
+    "electron": "^18.2.3"
+  }
+}
